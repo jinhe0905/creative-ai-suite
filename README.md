@@ -177,5 +177,5 @@ docker-compose up -d
 ## 📬 联系方式
 
 - 项目维护者: 金何 (@jinhe0905)
-- 电子邮件: [your-email@example.com]
+- 电子邮件: [jinhe0905@gmail.com]
 - 项目问题: [GitHub Issues](https://github.com/jinhe0905/creative-ai-suite/issues) 
